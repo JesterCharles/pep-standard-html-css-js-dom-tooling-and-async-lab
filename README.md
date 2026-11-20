@@ -31,7 +31,7 @@ This lab practises these topics: Selecting and changing the DOM; Events and even
 
 ## Setup
 
-1. Open a terminal in this folder: the repository root you cloned, the folder that holds this README. These instructions call it `coding-lab/`.
+1. Open a terminal in this folder, `coding-lab/`, the folder that holds this README.
 2. Go into `starter/` and install the test browser once:
 
    ```sh
